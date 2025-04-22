@@ -10,6 +10,7 @@ public class min_element_matrix {
                 }
             }
             System.out.println("Minimum element in the matrix is: " + minElement);
+            
 
         
     }
