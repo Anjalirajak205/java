@@ -1,6 +1,6 @@
 class employe{
     void work(){
-        System.out.println("Empoye is working");
+        System.out.println("Empoye is working"); // single level inheritance
     }
     
     }
