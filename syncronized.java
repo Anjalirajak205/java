@@ -1,9 +1,4 @@
-// Day: 29
-// Date: 05/06/2025
-// Day: Thursday
-
 import javax.swing.plaf.SliderUI;
-
 class MyThread extends Thread{
     public void run(){
         for(int i=0; i<=10; i++){
@@ -12,7 +7,6 @@ class MyThread extends Thread{
         }
     }
 }
-
 class ProducerConsumer extends Thread{
     private boolean isSignal = false;
 
