@@ -1,4 +1,2 @@
- // for( int i=0;i<arr.size();i++){
-        //    for(int j=i+1;j<=arr.size();j++){
-        //     arr.subList(i,j);
-        //     System.out.println(arr.subList(i,j));
+int sum = list.stream().reduce(10,(a,b)->a+b);
+        // System.out.println(sum);
