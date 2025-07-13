@@ -1,5 +1,5 @@
 public class CompressString {
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         String str ="hhheeelllooo ";
         StringBuilder newStr = new StringBuilder();
         int count =1;
