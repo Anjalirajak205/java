@@ -19,9 +19,7 @@ public class amax {
             sum=sum+arr[j];
             if(arr[j]>max){
                 max=arr[j];
-                
-
-            }
+                }
          }  
          System.out.println("max elements:") ;
          System.out.println(max);
