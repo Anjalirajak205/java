@@ -10,7 +10,7 @@ public class bubble_sort {
                 }
             }
         }
-        for (int i:arr){
+         for (int i:arr){
                System.out.println(i);
         }
     }
