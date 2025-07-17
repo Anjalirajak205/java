@@ -25,5 +25,4 @@ public class car {
         c1.show();
         c2.show();
     }
-    
-}
+    }
