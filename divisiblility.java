@@ -5,6 +5,5 @@ public class divisiblility {
            System.out.println("Divisible by 5 and 11");
         else
            System.out.println("Not Divisible");
-
     }
 }
