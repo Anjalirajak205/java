@@ -13,7 +13,6 @@ public class duplicate_string {
     // System.out.println(newStr + "  ");
 
     // first repeated value
-
     String str ="helolo";
     char[] ch = str.toCharArray();
     for (int i = 0; i < ch.length; i++) {
