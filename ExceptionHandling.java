@@ -38,7 +38,6 @@ public class ExceptionHandling {
                 System.out.println("sab kuch thik hai");
             }
         }
-        
     }
     
     
