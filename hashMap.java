@@ -3,6 +3,7 @@ import java.util.HashMap;
 public class hashMap {
     public static void main(String[] args) {
         // Create a HashMap
+       
         HashMap<String,Integer> map = new HashMap<>();
         map.put("id0", 1);
         map.put("id1", 2);
