@@ -19,6 +19,5 @@ public class Interface_multiple {
         Dev obj=new Dev();
         obj.show();
         obj.print();
-    
-}
+    }
 }
