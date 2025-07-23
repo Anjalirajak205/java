@@ -3,8 +3,6 @@ import java.util.Scanner;
 public class linear_array {
     public static void main(String[] args) {
     
- 
-
      Scanner in = new Scanner(System.in);
      System.out.print("Enter size of array: ");
      int n = in.nextInt();
