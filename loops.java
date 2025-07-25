@@ -8,8 +8,7 @@ public class loops {
         while(a<5){
             System.out.println("Heyyy");
             a++;
-                
-            }
+        }
         }
         }
 
