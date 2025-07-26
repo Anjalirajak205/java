@@ -11,7 +11,7 @@ public class maximum_array {
 
             }
 
-        }
+    }
         for(int i=0;i<arr2.length;i++){
             if(arr2[i]>max){
                 max = arr2[i];
