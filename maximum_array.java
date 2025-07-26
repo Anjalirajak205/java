@@ -10,8 +10,7 @@ public class maximum_array {
                 max = arr1[i];
 
             }
-
-    }
+}
         for(int i=0;i<arr2.length;i++){
             if(arr2[i]>max){
                 max = arr2[i];
