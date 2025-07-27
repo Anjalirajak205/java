@@ -3,8 +3,6 @@ public class max_sum {
     static int sum(int a, int b){
         return a+b;
     }
-
-    
     public static void main(String[] args) {
         int sum = sum(202,7);
         System.out.println("sum:"+sum);
