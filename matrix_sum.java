@@ -9,8 +9,6 @@ public class matrix_sum {
         
         }
         System.out.println("Sum of matrix elements: " + sum);
-        
-
-    }
+        }
     
 }
