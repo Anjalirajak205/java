@@ -13,9 +13,7 @@ public class sort_string {
         for(String i : str){
             System.out.println(i);
         }
-
-
-    }
+}
 
     public static void main(String[] args) {
         String[] str={"B","A","C"};

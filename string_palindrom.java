@@ -13,10 +13,6 @@ public class string_palindrom {
             else
             System.out.println("not a palindrome");
         }
-
-
-
-        
-    }
+}
     
 
