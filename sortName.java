@@ -3,6 +3,7 @@ import java.util.Comparator;
 import java.util.Collections;
 
 class Student {
+
     int rollNo;
     String name; int age;
     public Student (int age ,String name, int rollNo){
@@ -10,17 +11,19 @@ class Student {
         this.name= name;
         this.age=age;
     }
+
 public String toString(){
     return rollNo + " " + name + " " +age;
 }
-  
 }
+
 class sortByName implements Comparator<Student>{
     
     public int compare(Student s1, Student s2) {
          return s1.name.compareTo(s2.name);
     }
 }
+
 class sortByrollNo implements Comparator<Student>{
     
     public int compare(Student s1, Student s2) {
@@ -30,7 +33,9 @@ class sortByrollNo implements Comparator<Student>{
 
 
 public class sortName {
+
     public static void main(String[] args) {
+        
         ArrayList<Student> list = new ArrayList<>();
         list.add(new Student(20, "Anushka", 49));
         list.add(new Student(12, "Sneha", 209));

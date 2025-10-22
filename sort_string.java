@@ -1,6 +1,7 @@
 public class sort_string {
 
     public static void sort(String[] str){
+        
         for(int i=0;i<str.length-1;i++){
             for(int j=0;j<str.length-1-i;j++){
                 if((int)str[j].charAt(0)> (int)str[j+1].charAt(0)){
